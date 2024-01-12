@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.exe
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\refint\BoyOrGirl.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BoyOrGirl\obj\Debug\net7.0\ref\BoyOrGirl.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\bin\Debug\net7.0\LuckyDivision.exe
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\bin\Debug\net7.0\LuckyDivision.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\bin\Debug\net7.0\LuckyDivision.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\bin\Debug\net7.0\LuckyDivision.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\bin\Debug\net7.0\LuckyDivision.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\refint\LuckyDivision.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\LuckyDivision.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LuckyDivision\obj\Debug\net7.0\ref\LuckyDivision.dll

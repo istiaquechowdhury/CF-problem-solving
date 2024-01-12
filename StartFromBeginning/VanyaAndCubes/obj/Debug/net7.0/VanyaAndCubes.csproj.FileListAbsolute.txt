@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\bin\Debug\net7.0\VanyaAndCubes.exe
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\bin\Debug\net7.0\VanyaAndCubes.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\bin\Debug\net7.0\VanyaAndCubes.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\bin\Debug\net7.0\VanyaAndCubes.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\bin\Debug\net7.0\VanyaAndCubes.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\refint\VanyaAndCubes.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\VanyaAndCubes.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndCubes\obj\Debug\net7.0\ref\VanyaAndCubes.dll

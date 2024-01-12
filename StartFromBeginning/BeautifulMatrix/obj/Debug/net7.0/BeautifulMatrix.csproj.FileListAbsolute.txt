@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.exe
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\refint\BeautifulMatrix.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulMatrix\obj\Debug\net7.0\ref\BeautifulMatrix.dll

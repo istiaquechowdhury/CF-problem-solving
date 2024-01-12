@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\bin\Debug\net7.0\WordCapitalaization.exe
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\bin\Debug\net7.0\WordCapitalaization.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\bin\Debug\net7.0\WordCapitalaization.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\bin\Debug\net7.0\WordCapitalaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\bin\Debug\net7.0\WordCapitalaization.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\refint\WordCapitalaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\WordCapitalaization.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WordCapitalaization\obj\Debug\net7.0\ref\WordCapitalaization.dll

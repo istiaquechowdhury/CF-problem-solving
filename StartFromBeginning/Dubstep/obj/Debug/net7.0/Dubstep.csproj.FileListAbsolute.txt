@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\bin\Debug\net7.0\Dubstep.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\bin\Debug\net7.0\Dubstep.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\bin\Debug\net7.0\Dubstep.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\bin\Debug\net7.0\Dubstep.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\bin\Debug\net7.0\Dubstep.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\refint\Dubstep.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\Dubstep.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Dubstep\obj\Debug\net7.0\ref\Dubstep.dll

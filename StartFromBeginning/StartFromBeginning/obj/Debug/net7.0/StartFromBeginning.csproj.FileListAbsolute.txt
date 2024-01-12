@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\bin\Debug\net7.0\StartFromBeginning.exe
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\bin\Debug\net7.0\StartFromBeginning.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\bin\Debug\net7.0\StartFromBeginning.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\bin\Debug\net7.0\StartFromBeginning.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\bin\Debug\net7.0\StartFromBeginning.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\refint\StartFromBeginning.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\StartFromBeginning.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StartFromBeginning\obj\Debug\net7.0\ref\StartFromBeginning.dll

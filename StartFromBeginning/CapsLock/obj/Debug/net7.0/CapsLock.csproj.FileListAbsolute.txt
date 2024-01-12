@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\bin\Debug\net7.0\CapsLock.exe
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\bin\Debug\net7.0\CapsLock.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\bin\Debug\net7.0\CapsLock.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\bin\Debug\net7.0\CapsLock.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\bin\Debug\net7.0\CapsLock.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\refint\CapsLock.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\CapsLock.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLock\obj\Debug\net7.0\ref\CapsLock.dll

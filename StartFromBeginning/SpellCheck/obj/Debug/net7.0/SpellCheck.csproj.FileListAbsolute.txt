@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\bin\Debug\net7.0\SpellCheck.exe
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\bin\Debug\net7.0\SpellCheck.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\bin\Debug\net7.0\SpellCheck.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\bin\Debug\net7.0\SpellCheck.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\bin\Debug\net7.0\SpellCheck.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\refint\SpellCheck.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\SpellCheck.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SpellCheck\obj\Debug\net7.0\ref\SpellCheck.dll

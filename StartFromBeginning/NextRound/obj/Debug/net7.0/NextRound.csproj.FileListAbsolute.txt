@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\bin\Debug\net7.0\NextRound.exe
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\bin\Debug\net7.0\NextRound.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\bin\Debug\net7.0\NextRound.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\bin\Debug\net7.0\NextRound.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\bin\Debug\net7.0\NextRound.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\refint\NextRound.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\NextRound.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NextRound\obj\Debug\net7.0\ref\NextRound.dll

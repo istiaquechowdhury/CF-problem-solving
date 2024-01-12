@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\bin\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.exe
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\bin\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\bin\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\bin\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\bin\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\refint\RandomProblemfromJsSessionfromYoutube.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\RandomProblemfromJsSessionfromYoutube.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RandomProblemfromJsSessionfromYoutube\obj\Debug\net7.0\ref\RandomProblemfromJsSessionfromYoutube.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.exe
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\refint\CodeforcesChecking.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CodeforcesChecking\obj\Debug\net7.0\ref\CodeforcesChecking.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\bin\Debug\net7.0\Three Indices.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\bin\Debug\net7.0\Three Indices.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\bin\Debug\net7.0\Three Indices.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\bin\Debug\net7.0\Three Indices.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\bin\Debug\net7.0\Three Indices.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\refint\Three Indices.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\Three Indices.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Three Indices\obj\Debug\net7.0\ref\Three Indices.dll

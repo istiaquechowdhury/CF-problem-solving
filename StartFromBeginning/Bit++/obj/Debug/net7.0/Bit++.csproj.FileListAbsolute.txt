@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\bin\Debug\net7.0\Bit++.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\bin\Debug\net7.0\Bit++.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\bin\Debug\net7.0\Bit++.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\bin\Debug\net7.0\Bit++.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\bin\Debug\net7.0\Bit++.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\refint\Bit++.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\Bit++.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Bit++\obj\Debug\net7.0\ref\Bit++.dll

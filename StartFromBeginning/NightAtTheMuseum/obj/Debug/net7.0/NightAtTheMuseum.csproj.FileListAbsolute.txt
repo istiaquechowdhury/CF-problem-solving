@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\bin\Debug\net7.0\NightAtTheMuseum.exe
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\bin\Debug\net7.0\NightAtTheMuseum.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\bin\Debug\net7.0\NightAtTheMuseum.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\bin\Debug\net7.0\NightAtTheMuseum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\bin\Debug\net7.0\NightAtTheMuseum.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\refint\NightAtTheMuseum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\NightAtTheMuseum.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NightAtTheMuseum\obj\Debug\net7.0\ref\NightAtTheMuseum.dll

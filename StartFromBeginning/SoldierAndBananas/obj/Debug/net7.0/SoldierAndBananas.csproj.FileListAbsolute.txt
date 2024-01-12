@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\bin\Debug\net7.0\SoldierAndBananas.exe
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\bin\Debug\net7.0\SoldierAndBananas.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\bin\Debug\net7.0\SoldierAndBananas.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\bin\Debug\net7.0\SoldierAndBananas.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\bin\Debug\net7.0\SoldierAndBananas.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\refint\SoldierAndBananas.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\SoldierAndBananas.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SoldierAndBananas\obj\Debug\net7.0\ref\SoldierAndBananas.dll

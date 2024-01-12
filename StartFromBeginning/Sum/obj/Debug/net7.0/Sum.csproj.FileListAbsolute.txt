@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\bin\Debug\net7.0\Sum.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\bin\Debug\net7.0\Sum.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\bin\Debug\net7.0\Sum.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\bin\Debug\net7.0\Sum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\bin\Debug\net7.0\Sum.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\refint\Sum.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\Sum.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Sum\obj\Debug\net7.0\ref\Sum.dll

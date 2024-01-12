@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\bin\Debug\net7.0\PenaromixsPrediction.exe
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\bin\Debug\net7.0\PenaromixsPrediction.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\bin\Debug\net7.0\PenaromixsPrediction.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\bin\Debug\net7.0\PenaromixsPrediction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\bin\Debug\net7.0\PenaromixsPrediction.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\refint\PenaromixsPrediction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\PenaromixsPrediction.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PenaromixsPrediction\obj\Debug\net7.0\ref\PenaromixsPrediction.dll

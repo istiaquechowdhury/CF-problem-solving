@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\bin\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.exe
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\bin\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\bin\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\bin\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.dll
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\bin\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.dll
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\refint\IsYourHorseShoeOntheOtherHoof.dll
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\IsYourHorseShoeOntheOtherHoof.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\IsYourHorseShoeOntheOtherHoof\obj\Debug\net7.0\ref\IsYourHorseShoeOntheOtherHoof.dll

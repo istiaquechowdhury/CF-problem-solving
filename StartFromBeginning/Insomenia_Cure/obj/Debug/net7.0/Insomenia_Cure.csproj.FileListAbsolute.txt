@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\bin\Debug\net7.0\Insomenia_Cure.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\bin\Debug\net7.0\Insomenia_Cure.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\bin\Debug\net7.0\Insomenia_Cure.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\bin\Debug\net7.0\Insomenia_Cure.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\bin\Debug\net7.0\Insomenia_Cure.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\refint\Insomenia_Cure.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\Insomenia_Cure.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Insomenia_Cure\obj\Debug\net7.0\ref\Insomenia_Cure.dll

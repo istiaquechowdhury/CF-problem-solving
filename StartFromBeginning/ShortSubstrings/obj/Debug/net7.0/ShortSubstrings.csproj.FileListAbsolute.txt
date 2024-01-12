@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\bin\Debug\net7.0\ShortSubstrings.exe
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\bin\Debug\net7.0\ShortSubstrings.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\bin\Debug\net7.0\ShortSubstrings.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\bin\Debug\net7.0\ShortSubstrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\bin\Debug\net7.0\ShortSubstrings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\refint\ShortSubstrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ShortSubstrings.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ShortSubstrings\obj\Debug\net7.0\ref\ShortSubstrings.dll

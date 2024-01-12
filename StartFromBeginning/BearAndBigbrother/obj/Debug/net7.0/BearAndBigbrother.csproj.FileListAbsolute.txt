@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\bin\Debug\net7.0\BearAndBigbrother.exe
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\bin\Debug\net7.0\BearAndBigbrother.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\bin\Debug\net7.0\BearAndBigbrother.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\bin\Debug\net7.0\BearAndBigbrother.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\bin\Debug\net7.0\BearAndBigbrother.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\refint\BearAndBigbrother.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\BearAndBigbrother.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BearAndBigbrother\obj\Debug\net7.0\ref\BearAndBigbrother.dll

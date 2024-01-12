@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\bin\Debug\net7.0\InSeachOfAnEasyProblem.exe
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\bin\Debug\net7.0\InSeachOfAnEasyProblem.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\bin\Debug\net7.0\InSeachOfAnEasyProblem.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\bin\Debug\net7.0\InSeachOfAnEasyProblem.dll
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\bin\Debug\net7.0\InSeachOfAnEasyProblem.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.dll
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\refint\InSeachOfAnEasyProblem.dll
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\InSeachOfAnEasyProblem.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\InSeachOfAnEasyProblem\obj\Debug\net7.0\ref\InSeachOfAnEasyProblem.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Games\bin\Debug\net7.0\Games.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Games\bin\Debug\net7.0\Games.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Games\bin\Debug\net7.0\Games.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Games\bin\Debug\net7.0\Games.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Games\bin\Debug\net7.0\Games.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\refint\Games.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\Games.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Games\obj\Debug\net7.0\ref\Games.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\bin\Debug\net7.0\I_love_%username%.exe
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\bin\Debug\net7.0\I_love_%username%.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\bin\Debug\net7.0\I_love_%username%.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\bin\Debug\net7.0\I_love_%username%.dll
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\bin\Debug\net7.0\I_love_%username%.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.dll
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\refint\I_love_%username%.dll
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\I_love_%username%.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\I_love_%username%\obj\Debug\net7.0\ref\I_love_%username%.dll

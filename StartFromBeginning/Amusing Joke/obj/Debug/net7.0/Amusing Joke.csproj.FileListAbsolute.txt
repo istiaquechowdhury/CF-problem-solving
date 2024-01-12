@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\bin\Debug\net7.0\Amusing Joke.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\bin\Debug\net7.0\Amusing Joke.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\bin\Debug\net7.0\Amusing Joke.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\bin\Debug\net7.0\Amusing Joke.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\bin\Debug\net7.0\Amusing Joke.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\refint\Amusing Joke.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\Amusing Joke.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Amusing Joke\obj\Debug\net7.0\ref\Amusing Joke.dll

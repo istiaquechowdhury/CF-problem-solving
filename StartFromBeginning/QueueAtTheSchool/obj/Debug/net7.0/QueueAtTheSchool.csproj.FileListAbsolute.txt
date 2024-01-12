@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\bin\Debug\net7.0\QueueAtTheSchool.exe
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\bin\Debug\net7.0\QueueAtTheSchool.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\bin\Debug\net7.0\QueueAtTheSchool.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\bin\Debug\net7.0\QueueAtTheSchool.dll
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\bin\Debug\net7.0\QueueAtTheSchool.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.dll
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\refint\QueueAtTheSchool.dll
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\QueueAtTheSchool.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\QueueAtTheSchool\obj\Debug\net7.0\ref\QueueAtTheSchool.dll

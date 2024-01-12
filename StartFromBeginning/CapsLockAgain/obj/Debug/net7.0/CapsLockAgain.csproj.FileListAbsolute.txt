@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\bin\Debug\net7.0\CapsLockAgain.exe
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\bin\Debug\net7.0\CapsLockAgain.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\bin\Debug\net7.0\CapsLockAgain.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\bin\Debug\net7.0\CapsLockAgain.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\bin\Debug\net7.0\CapsLockAgain.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\refint\CapsLockAgain.dll
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\CapsLockAgain.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\CapsLockAgain\obj\Debug\net7.0\ref\CapsLockAgain.dll

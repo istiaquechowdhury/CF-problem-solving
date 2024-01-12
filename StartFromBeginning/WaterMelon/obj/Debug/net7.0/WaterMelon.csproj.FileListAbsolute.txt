@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\bin\Debug\net7.0\WaterMelon.exe
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\bin\Debug\net7.0\WaterMelon.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\bin\Debug\net7.0\WaterMelon.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\bin\Debug\net7.0\WaterMelon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\bin\Debug\net7.0\WaterMelon.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\refint\WaterMelon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\WaterMelon.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WaterMelon\obj\Debug\net7.0\ref\WaterMelon.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\bin\Debug\net7.0\GeorgeAndAccomodation.exe
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\bin\Debug\net7.0\GeorgeAndAccomodation.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\bin\Debug\net7.0\GeorgeAndAccomodation.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\bin\Debug\net7.0\GeorgeAndAccomodation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\bin\Debug\net7.0\GeorgeAndAccomodation.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\refint\GeorgeAndAccomodation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\GeorgeAndAccomodation.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\GeorgeAndAccomodation\obj\Debug\net7.0\ref\GeorgeAndAccomodation.dll

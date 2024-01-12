@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\bin\Debug\net7.0\WrongSubtraction.exe
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\bin\Debug\net7.0\WrongSubtraction.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\bin\Debug\net7.0\WrongSubtraction.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\bin\Debug\net7.0\WrongSubtraction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\bin\Debug\net7.0\WrongSubtraction.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\refint\WrongSubtraction.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\WrongSubtraction.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WrongSubtraction\obj\Debug\net7.0\ref\WrongSubtraction.dll

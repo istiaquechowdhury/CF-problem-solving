@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\bin\Debug\net7.0\TwoGrams.exe
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\bin\Debug\net7.0\TwoGrams.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\bin\Debug\net7.0\TwoGrams.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\bin\Debug\net7.0\TwoGrams.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\bin\Debug\net7.0\TwoGrams.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\refint\TwoGrams.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\TwoGrams.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TwoGrams\obj\Debug\net7.0\ref\TwoGrams.dll

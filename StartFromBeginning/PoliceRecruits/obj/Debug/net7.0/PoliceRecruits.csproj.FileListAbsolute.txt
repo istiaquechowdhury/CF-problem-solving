@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\bin\Debug\net7.0\PoliceRecruits.exe
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\bin\Debug\net7.0\PoliceRecruits.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\bin\Debug\net7.0\PoliceRecruits.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\bin\Debug\net7.0\PoliceRecruits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\bin\Debug\net7.0\PoliceRecruits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\refint\PoliceRecruits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\PoliceRecruits.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PoliceRecruits\obj\Debug\net7.0\ref\PoliceRecruits.dll

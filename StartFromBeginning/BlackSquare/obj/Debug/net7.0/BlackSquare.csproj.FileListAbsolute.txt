@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\bin\Debug\net7.0\BlackSquare.exe
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\bin\Debug\net7.0\BlackSquare.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\bin\Debug\net7.0\BlackSquare.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\bin\Debug\net7.0\BlackSquare.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\bin\Debug\net7.0\BlackSquare.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\refint\BlackSquare.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\BlackSquare.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BlackSquare\obj\Debug\net7.0\ref\BlackSquare.dll

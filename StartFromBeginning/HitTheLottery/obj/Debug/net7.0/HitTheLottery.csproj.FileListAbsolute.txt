@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\bin\Debug\net7.0\HitTheLottery.exe
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\bin\Debug\net7.0\HitTheLottery.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\bin\Debug\net7.0\HitTheLottery.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\bin\Debug\net7.0\HitTheLottery.dll
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\bin\Debug\net7.0\HitTheLottery.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.dll
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\refint\HitTheLottery.dll
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\HitTheLottery.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\HitTheLottery\obj\Debug\net7.0\ref\HitTheLottery.dll

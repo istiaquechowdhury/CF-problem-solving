@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.exe
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\refint\WayTooLongWords.dll
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\WayTooLongWords\obj\Debug\net7.0\ref\WayTooLongWords.dll

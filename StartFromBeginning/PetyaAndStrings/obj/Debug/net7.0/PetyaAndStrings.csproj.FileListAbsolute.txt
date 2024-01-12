@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\bin\Debug\net7.0\PetyaAndStrings.exe
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\bin\Debug\net7.0\PetyaAndStrings.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\bin\Debug\net7.0\PetyaAndStrings.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\bin\Debug\net7.0\PetyaAndStrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\bin\Debug\net7.0\PetyaAndStrings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\refint\PetyaAndStrings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\PetyaAndStrings.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PetyaAndStrings\obj\Debug\net7.0\ref\PetyaAndStrings.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\bin\Debug\net7.0\Translation.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\bin\Debug\net7.0\Translation.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\bin\Debug\net7.0\Translation.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\bin\Debug\net7.0\Translation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\bin\Debug\net7.0\Translation.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\refint\Translation.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\Translation.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Translation\obj\Debug\net7.0\ref\Translation.dll

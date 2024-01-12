@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\bin\Debug\net7.0\MishkaAndGame.exe
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\bin\Debug\net7.0\MishkaAndGame.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\bin\Debug\net7.0\MishkaAndGame.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\bin\Debug\net7.0\MishkaAndGame.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\bin\Debug\net7.0\MishkaAndGame.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\refint\MishkaAndGame.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\MishkaAndGame.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MishkaAndGame\obj\Debug\net7.0\ref\MishkaAndGame.dll

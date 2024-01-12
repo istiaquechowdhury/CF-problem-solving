@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\bin\Debug\net7.0\H-U-L-K.exe
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\bin\Debug\net7.0\H-U-L-K.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\bin\Debug\net7.0\H-U-L-K.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\bin\Debug\net7.0\H-U-L-K.dll
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\bin\Debug\net7.0\H-U-L-K.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.dll
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\refint\H-U-L-K.dll
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\H-U-L-K.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\H-U-L-K\obj\Debug\net7.0\ref\H-U-L-K.dll

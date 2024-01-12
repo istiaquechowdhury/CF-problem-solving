@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\bin\Debug\net7.0\Ultra-Fast Mathematician.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\bin\Debug\net7.0\Ultra-Fast Mathematician.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\bin\Debug\net7.0\Ultra-Fast Mathematician.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\bin\Debug\net7.0\Ultra-Fast Mathematician.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\bin\Debug\net7.0\Ultra-Fast Mathematician.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\refint\Ultra-Fast Mathematician.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\Ultra-Fast Mathematician.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Ultra-Fast Mathematician\obj\Debug\net7.0\ref\Ultra-Fast Mathematician.dll

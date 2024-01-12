@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\bin\Debug\net7.0\Magnet.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\bin\Debug\net7.0\Magnet.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\bin\Debug\net7.0\Magnet.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\bin\Debug\net7.0\Magnet.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\bin\Debug\net7.0\Magnet.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\refint\Magnet.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\Magnet.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Magnet\obj\Debug\net7.0\ref\Magnet.dll

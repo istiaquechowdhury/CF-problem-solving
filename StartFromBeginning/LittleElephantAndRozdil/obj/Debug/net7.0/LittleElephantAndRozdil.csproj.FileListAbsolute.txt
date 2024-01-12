@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\bin\Debug\net7.0\LittleElephantAndRozdil.exe
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\bin\Debug\net7.0\LittleElephantAndRozdil.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\bin\Debug\net7.0\LittleElephantAndRozdil.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\bin\Debug\net7.0\LittleElephantAndRozdil.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\bin\Debug\net7.0\LittleElephantAndRozdil.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\refint\LittleElephantAndRozdil.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\LittleElephantAndRozdil.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LittleElephantAndRozdil\obj\Debug\net7.0\ref\LittleElephantAndRozdil.dll

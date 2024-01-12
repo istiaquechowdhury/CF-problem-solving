@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\bin\Debug\net7.0\VanyaAndFence.exe
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\bin\Debug\net7.0\VanyaAndFence.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\bin\Debug\net7.0\VanyaAndFence.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\bin\Debug\net7.0\VanyaAndFence.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\bin\Debug\net7.0\VanyaAndFence.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\refint\VanyaAndFence.dll
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\VanyaAndFence.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\VanyaAndFence\obj\Debug\net7.0\ref\VanyaAndFence.dll

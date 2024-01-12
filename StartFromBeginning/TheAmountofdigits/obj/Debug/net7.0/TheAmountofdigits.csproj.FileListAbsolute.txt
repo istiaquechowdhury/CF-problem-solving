@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\bin\Debug\net7.0\TheAmountofdigits.exe
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\bin\Debug\net7.0\TheAmountofdigits.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\bin\Debug\net7.0\TheAmountofdigits.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\bin\Debug\net7.0\TheAmountofdigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\bin\Debug\net7.0\TheAmountofdigits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\refint\TheAmountofdigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\TheAmountofdigits.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\TheAmountofdigits\obj\Debug\net7.0\ref\TheAmountofdigits.dll

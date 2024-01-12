@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\bin\Debug\net7.0\ArrayStabilaization.exe
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\bin\Debug\net7.0\ArrayStabilaization.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\bin\Debug\net7.0\ArrayStabilaization.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\bin\Debug\net7.0\ArrayStabilaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\bin\Debug\net7.0\ArrayStabilaization.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\refint\ArrayStabilaization.dll
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ArrayStabilaization.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\ArrayStabilaization\obj\Debug\net7.0\ref\ArrayStabilaization.dll

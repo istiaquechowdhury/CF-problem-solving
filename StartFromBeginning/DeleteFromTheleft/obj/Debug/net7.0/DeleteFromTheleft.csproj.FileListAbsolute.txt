@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\bin\Debug\net7.0\DeleteFromTheleft.exe
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\bin\Debug\net7.0\DeleteFromTheleft.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\bin\Debug\net7.0\DeleteFromTheleft.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\bin\Debug\net7.0\DeleteFromTheleft.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\bin\Debug\net7.0\DeleteFromTheleft.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\refint\DeleteFromTheleft.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\DeleteFromTheleft.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DeleteFromTheleft\obj\Debug\net7.0\ref\DeleteFromTheleft.dll

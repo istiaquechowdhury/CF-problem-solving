@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\bin\Debug\net7.0\AntonAndPolyhedrons.exe
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\bin\Debug\net7.0\AntonAndPolyhedrons.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\bin\Debug\net7.0\AntonAndPolyhedrons.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\bin\Debug\net7.0\AntonAndPolyhedrons.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\bin\Debug\net7.0\AntonAndPolyhedrons.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\refint\AntonAndPolyhedrons.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\AntonAndPolyhedrons.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndPolyhedrons\obj\Debug\net7.0\ref\AntonAndPolyhedrons.dll

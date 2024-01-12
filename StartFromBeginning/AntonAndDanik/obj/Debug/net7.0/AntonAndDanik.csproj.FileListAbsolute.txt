@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\bin\Debug\net7.0\AntonAndDanik.exe
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\bin\Debug\net7.0\AntonAndDanik.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\bin\Debug\net7.0\AntonAndDanik.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\bin\Debug\net7.0\AntonAndDanik.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\bin\Debug\net7.0\AntonAndDanik.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\refint\AntonAndDanik.dll
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\AntonAndDanik.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\AntonAndDanik\obj\Debug\net7.0\ref\AntonAndDanik.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DeleteFromTheleft/1.0.0": {
+        "runtime": {
+          "DeleteFromTheleft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeleteFromTheleft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

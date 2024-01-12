@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\bin\Debug\net7.0\PlusorMinus.exe
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\bin\Debug\net7.0\PlusorMinus.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\bin\Debug\net7.0\PlusorMinus.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\bin\Debug\net7.0\PlusorMinus.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\bin\Debug\net7.0\PlusorMinus.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\refint\PlusorMinus.dll
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\PlusorMinus.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\PlusorMinus\obj\Debug\net7.0\ref\PlusorMinus.dll

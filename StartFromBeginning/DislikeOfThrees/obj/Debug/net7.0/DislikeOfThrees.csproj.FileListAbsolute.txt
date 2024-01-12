@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\bin\Debug\net7.0\DislikeOfThrees.exe
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\bin\Debug\net7.0\DislikeOfThrees.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\bin\Debug\net7.0\DislikeOfThrees.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\bin\Debug\net7.0\DislikeOfThrees.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\bin\Debug\net7.0\DislikeOfThrees.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\refint\DislikeOfThrees.dll
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\DislikeOfThrees.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\DislikeOfThrees\obj\Debug\net7.0\ref\DislikeOfThrees.dll

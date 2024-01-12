@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\bin\Debug\net7.0\Decoding.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\bin\Debug\net7.0\Decoding.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\bin\Debug\net7.0\Decoding.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\bin\Debug\net7.0\Decoding.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\bin\Debug\net7.0\Decoding.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\refint\Decoding.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\Decoding.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Decoding\obj\Debug\net7.0\ref\Decoding.dll

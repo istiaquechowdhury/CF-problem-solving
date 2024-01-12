@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\bin\Debug\net7.0\EvenOdd.exe
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\bin\Debug\net7.0\EvenOdd.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\bin\Debug\net7.0\EvenOdd.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\bin\Debug\net7.0\EvenOdd.dll
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\bin\Debug\net7.0\EvenOdd.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.dll
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\refint\EvenOdd.dll
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\EvenOdd.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\EvenOdd\obj\Debug\net7.0\ref\EvenOdd.dll

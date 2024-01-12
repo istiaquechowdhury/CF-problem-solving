@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\bin\Debug\net7.0\YESOrYES.exe
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\bin\Debug\net7.0\YESOrYES.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\bin\Debug\net7.0\YESOrYES.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\bin\Debug\net7.0\YESOrYES.dll
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\bin\Debug\net7.0\YESOrYES.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.dll
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\refint\YESOrYES.dll
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\YESOrYES.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\YESOrYES\obj\Debug\net7.0\ref\YESOrYES.dll

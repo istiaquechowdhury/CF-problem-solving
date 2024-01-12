@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\bin\Debug\net7.0\SquareString.exe
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\bin\Debug\net7.0\SquareString.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\bin\Debug\net7.0\SquareString.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\bin\Debug\net7.0\SquareString.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\bin\Debug\net7.0\SquareString.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\refint\SquareString.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\SquareString.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SquareString\obj\Debug\net7.0\ref\SquareString.dll

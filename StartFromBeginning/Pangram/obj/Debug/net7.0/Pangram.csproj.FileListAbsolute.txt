@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\bin\Debug\net7.0\Pangram.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\bin\Debug\net7.0\Pangram.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\bin\Debug\net7.0\Pangram.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\bin\Debug\net7.0\Pangram.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\bin\Debug\net7.0\Pangram.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\refint\Pangram.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\Pangram.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Pangram\obj\Debug\net7.0\ref\Pangram.dll

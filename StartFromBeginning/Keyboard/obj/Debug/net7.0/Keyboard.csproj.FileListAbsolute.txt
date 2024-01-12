@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\bin\Debug\net7.0\Keyboard.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\bin\Debug\net7.0\Keyboard.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\bin\Debug\net7.0\Keyboard.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\bin\Debug\net7.0\Keyboard.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\bin\Debug\net7.0\Keyboard.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\refint\Keyboard.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\Keyboard.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Keyboard\obj\Debug\net7.0\ref\Keyboard.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\bin\Debug\net7.0\StonesOnTheTable.exe
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\bin\Debug\net7.0\StonesOnTheTable.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\bin\Debug\net7.0\StonesOnTheTable.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\bin\Debug\net7.0\StonesOnTheTable.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\bin\Debug\net7.0\StonesOnTheTable.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\refint\StonesOnTheTable.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\StonesOnTheTable.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StonesOnTheTable\obj\Debug\net7.0\ref\StonesOnTheTable.dll

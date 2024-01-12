@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\bin\Debug\net7.0\Arrival of the General.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\bin\Debug\net7.0\Arrival of the General.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\bin\Debug\net7.0\Arrival of the General.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\bin\Debug\net7.0\Arrival of the General.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\bin\Debug\net7.0\Arrival of the General.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\refint\Arrival of the General.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\Arrival of the General.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Arrival of the General\obj\Debug\net7.0\ref\Arrival of the General.dll

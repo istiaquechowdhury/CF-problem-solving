@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\bin\Debug\net7.0\StringTask.exe
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\bin\Debug\net7.0\StringTask.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\bin\Debug\net7.0\StringTask.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\bin\Debug\net7.0\StringTask.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\bin\Debug\net7.0\StringTask.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\refint\StringTask.dll
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\StringTask.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\StringTask\obj\Debug\net7.0\ref\StringTask.dll

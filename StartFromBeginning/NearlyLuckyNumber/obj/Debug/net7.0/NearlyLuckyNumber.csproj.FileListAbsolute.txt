@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\bin\Debug\net7.0\NearlyLuckyNumber.exe
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\bin\Debug\net7.0\NearlyLuckyNumber.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\bin\Debug\net7.0\NearlyLuckyNumber.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\bin\Debug\net7.0\NearlyLuckyNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\bin\Debug\net7.0\NearlyLuckyNumber.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\refint\NearlyLuckyNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\NearlyLuckyNumber.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NearlyLuckyNumber\obj\Debug\net7.0\ref\NearlyLuckyNumber.dll

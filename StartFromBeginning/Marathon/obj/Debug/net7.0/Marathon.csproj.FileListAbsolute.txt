@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\bin\Debug\net7.0\Marathon.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\bin\Debug\net7.0\Marathon.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\bin\Debug\net7.0\Marathon.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\bin\Debug\net7.0\Marathon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\bin\Debug\net7.0\Marathon.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\refint\Marathon.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\Marathon.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Marathon\obj\Debug\net7.0\ref\Marathon.dll

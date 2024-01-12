@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\bin\Debug\net7.0\Lucky.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\bin\Debug\net7.0\Lucky.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\bin\Debug\net7.0\Lucky.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\bin\Debug\net7.0\Lucky.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\bin\Debug\net7.0\Lucky.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\refint\Lucky.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\Lucky.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lucky\obj\Debug\net7.0\ref\Lucky.dll

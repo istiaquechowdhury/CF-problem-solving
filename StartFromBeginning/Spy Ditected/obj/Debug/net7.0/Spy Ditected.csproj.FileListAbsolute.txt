@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\bin\Debug\net7.0\Spy Ditected.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\bin\Debug\net7.0\Spy Ditected.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\bin\Debug\net7.0\Spy Ditected.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\bin\Debug\net7.0\Spy Ditected.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\bin\Debug\net7.0\Spy Ditected.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\refint\Spy Ditected.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\Spy Ditected.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Spy Ditected\obj\Debug\net7.0\ref\Spy Ditected.dll

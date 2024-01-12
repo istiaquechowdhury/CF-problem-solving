@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\bin\Debug\net7.0\Cookies.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\bin\Debug\net7.0\Cookies.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\bin\Debug\net7.0\Cookies.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\bin\Debug\net7.0\Cookies.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\bin\Debug\net7.0\Cookies.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\refint\Cookies.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\Cookies.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Cookies\obj\Debug\net7.0\ref\Cookies.dll

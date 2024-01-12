@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\bin\Debug\net7.0\FindTheBigNumber.exe
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\bin\Debug\net7.0\FindTheBigNumber.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\bin\Debug\net7.0\FindTheBigNumber.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\bin\Debug\net7.0\FindTheBigNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\bin\Debug\net7.0\FindTheBigNumber.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\refint\FindTheBigNumber.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\FindTheBigNumber.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FindTheBigNumber\obj\Debug\net7.0\ref\FindTheBigNumber.dll

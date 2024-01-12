@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\bin\Debug\net7.0\BeautifulYear.exe
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\bin\Debug\net7.0\BeautifulYear.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\bin\Debug\net7.0\BeautifulYear.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\bin\Debug\net7.0\BeautifulYear.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\bin\Debug\net7.0\BeautifulYear.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\refint\BeautifulYear.dll
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\BeautifulYear.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\BeautifulYear\obj\Debug\net7.0\ref\BeautifulYear.dll
