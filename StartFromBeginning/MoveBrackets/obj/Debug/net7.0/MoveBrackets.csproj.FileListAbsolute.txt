@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\bin\Debug\net7.0\MoveBrackets.exe
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\bin\Debug\net7.0\MoveBrackets.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\bin\Debug\net7.0\MoveBrackets.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\bin\Debug\net7.0\MoveBrackets.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\bin\Debug\net7.0\MoveBrackets.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\refint\MoveBrackets.dll
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\MoveBrackets.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\MoveBrackets\obj\Debug\net7.0\ref\MoveBrackets.dll

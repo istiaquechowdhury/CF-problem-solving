@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\bin\Debug\net7.0\LifeWithoutZeros.exe
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\bin\Debug\net7.0\LifeWithoutZeros.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\bin\Debug\net7.0\LifeWithoutZeros.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\bin\Debug\net7.0\LifeWithoutZeros.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\bin\Debug\net7.0\LifeWithoutZeros.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\refint\LifeWithoutZeros.dll
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\LifeWithoutZeros.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\LifeWithoutZeros\obj\Debug\net7.0\ref\LifeWithoutZeros.dll

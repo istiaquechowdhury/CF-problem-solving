@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\bin\Debug\net7.0\RaisingBacteria.exe
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\bin\Debug\net7.0\RaisingBacteria.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\bin\Debug\net7.0\RaisingBacteria.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\bin\Debug\net7.0\RaisingBacteria.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\bin\Debug\net7.0\RaisingBacteria.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\refint\RaisingBacteria.dll
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\RaisingBacteria.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\RaisingBacteria\obj\Debug\net7.0\ref\RaisingBacteria.dll

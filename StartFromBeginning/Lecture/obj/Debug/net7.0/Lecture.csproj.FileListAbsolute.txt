@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\bin\Debug\net7.0\Lecture.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\bin\Debug\net7.0\Lecture.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\bin\Debug\net7.0\Lecture.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\bin\Debug\net7.0\Lecture.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\bin\Debug\net7.0\Lecture.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\refint\Lecture.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\Lecture.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Lecture\obj\Debug\net7.0\ref\Lecture.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\bin\Debug\net6.0\kstring.exe
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\bin\Debug\net6.0\kstring.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\bin\Debug\net6.0\kstring.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\bin\Debug\net6.0\kstring.dll
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\bin\Debug\net6.0\kstring.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.dll
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\refint\kstring.dll
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\kstring.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\kstring\obj\Debug\net6.0\ref\kstring.dll

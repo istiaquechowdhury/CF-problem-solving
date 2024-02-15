@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\bin\Debug\net6.0\KoxiaandWhiteBoards.exe
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\bin\Debug\net6.0\KoxiaandWhiteBoards.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\bin\Debug\net6.0\KoxiaandWhiteBoards.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\bin\Debug\net6.0\KoxiaandWhiteBoards.dll
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\bin\Debug\net6.0\KoxiaandWhiteBoards.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.dll
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\refint\KoxiaandWhiteBoards.dll
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\KoxiaandWhiteBoards.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\KoxiaandWhiteBoards\obj\Debug\net6.0\ref\KoxiaandWhiteBoards.dll

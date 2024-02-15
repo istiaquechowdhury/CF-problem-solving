@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\bin\Debug\net7.0\JzzhuAndChildren.exe
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\bin\Debug\net7.0\JzzhuAndChildren.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\bin\Debug\net7.0\JzzhuAndChildren.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\bin\Debug\net7.0\JzzhuAndChildren.dll
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\bin\Debug\net7.0\JzzhuAndChildren.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.dll
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\refint\JzzhuAndChildren.dll
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\JzzhuAndChildren.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\JzzhuAndChildren\obj\Debug\net7.0\ref\JzzhuAndChildren.dll

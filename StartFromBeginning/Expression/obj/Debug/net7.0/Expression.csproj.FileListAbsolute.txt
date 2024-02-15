@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\bin\Debug\net7.0\Expression.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\bin\Debug\net7.0\Expression.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\bin\Debug\net7.0\Expression.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\bin\Debug\net7.0\Expression.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\bin\Debug\net7.0\Expression.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\refint\Expression.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\Expression.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Expression\obj\Debug\net7.0\ref\Expression.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\bin\Debug\net7.0\SumofDigits.exe
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\bin\Debug\net7.0\SumofDigits.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\bin\Debug\net7.0\SumofDigits.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\bin\Debug\net7.0\SumofDigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\bin\Debug\net7.0\SumofDigits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\refint\SumofDigits.dll
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\SumofDigits.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\SumofDigits\obj\Debug\net7.0\ref\SumofDigits.dll

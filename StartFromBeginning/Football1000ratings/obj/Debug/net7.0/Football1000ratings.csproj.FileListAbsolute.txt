@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\bin\Debug\net7.0\Football1000ratings.exe
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\bin\Debug\net7.0\Football1000ratings.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\bin\Debug\net7.0\Football1000ratings.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\bin\Debug\net7.0\Football1000ratings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\bin\Debug\net7.0\Football1000ratings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\refint\Football1000ratings.dll
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\Football1000ratings.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\Football1000ratings\obj\Debug\net7.0\ref\Football1000ratings.dll

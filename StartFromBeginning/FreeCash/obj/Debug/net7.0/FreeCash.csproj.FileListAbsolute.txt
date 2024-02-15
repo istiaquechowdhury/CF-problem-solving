@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\bin\Debug\net7.0\FreeCash.exe
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\bin\Debug\net7.0\FreeCash.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\bin\Debug\net7.0\FreeCash.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\bin\Debug\net7.0\FreeCash.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\bin\Debug\net7.0\FreeCash.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\refint\FreeCash.dll
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\FreeCash.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\FreeCash\obj\Debug\net7.0\ref\FreeCash.dll

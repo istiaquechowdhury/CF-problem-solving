@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\bin\Debug\net7.0\NewYearCandles.exe
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\bin\Debug\net7.0\NewYearCandles.deps.json
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\bin\Debug\net7.0\NewYearCandles.runtimeconfig.json
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\bin\Debug\net7.0\NewYearCandles.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\bin\Debug\net7.0\NewYearCandles.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.AssemblyInfo.cs
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\refint\NewYearCandles.dll
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.pdb
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\NewYearCandles.genruntimeconfig.cache
+C:\Users\DCL\source\repos\StartFromBeginning\NewYearCandles\obj\Debug\net7.0\ref\NewYearCandles.dll
